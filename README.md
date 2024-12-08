@@ -23,8 +23,8 @@ To address these challenges, the data needs to be cleaned, merged, and analyzed 
 - **README.md** 📑- Project documentation.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Customer.jpg" alt="Store Performance" style="width: 48%; height: 500px; object-fit: cover;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Screenshot%202024-12-08%20214139.png" alt="5.5K Performance" style="width: 48%; height: 500px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Customer.jpg" alt="customer" style="width: 48%; height: 500px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Screenshot%202024-12-08%20214139.png" alt="data types" style="width: 48%; height: 500px; object-fit: cover;">
 </div>
 
 - Both properties and customer datasets merged in to **Realstate** dataset using the customerid column
@@ -98,8 +98,9 @@ Analyze key variables using descriptive statistics to understand:
   - Visualization: [Sales Performance Chart](#) 📈
     
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Customer.jpg" alt="Store Performance" style="width: 48%; height: 500px; object-fit: cover;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Screenshot%202024-12-08%20214139.png" alt="5.5K Performance" style="width: 48%; height: 500px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Total%20revenue%20by%20type%20of%20the%20property.png" alt="type" style="width: 32%; height: 200px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/revenue%20by%20country.png" alt="country" style="width: 32%; height: 200px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/total%20revenue%20by%20state.png" alt="state" style="width: 32%; height: 200px; object-fit:cover;">
 </div>
 
   - Insights: _Add insights here._  
