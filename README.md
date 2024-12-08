@@ -19,7 +19,7 @@ To address these challenges, the data needs to be cleaned, merged, and analyzed 
 ## **Project Files** 📁  
 
 - **realstate_data.csv** 🗂️- Cleaned dataset containing property and customer information.  
-- **RealEstateAnalysis.ipynb** 💻- Jupyter Notebook with all code and analysis.  
+- **Realestate_Analysis.ipynb** 💻- Jupyter Notebook with all code and analysis ["https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Realstate_Analysis.ipynb"].  
 - **README.md** 📑- Project documentation.
 
 <div style="display: flex; justify-content: space-between;">
