@@ -8,7 +8,7 @@ This project leverages **Python** to preprocess, analyze, and visualize real est
 ---
 
 ## **Problem Statement** 🧐  
-The client, a prominent real estate company, has collected extensive data on properties and their customers. The data is currently unprocessed, with missing values and inconsistencies, hindering meaningful analysis. The company seeks actionable insights to answer key questions, such as:  
+The client, a prominent real estate company, has collected extensive data on properties and their customers. The data is currently unprocessed, with missing values and inconsistencies, hindering meaningful analysis. The company seeks actionable insights to answer key questions, such as
 - 👥 What age groups exhibit the highest buyer potential?  
 - 🏠 Which property types perform best in terms of sales and satisfaction?  
 - 🌍 How does deal satisfaction vary by region?  
@@ -18,7 +18,7 @@ To address these challenges, the data needs to be cleaned, merged, and analyzed 
 ---
 
 ## **Project Objectives** 🎯  
-The primary objectives of this project are:  
+The primary objectives of this project are
 1. **Data Preprocessing**  
    - 🧹 Handle missing values and inconsistencies.  
    - 🔄 Transform and standardize column data types.  
@@ -43,25 +43,25 @@ The primary objectives of this project are:
 
 ## **Technology Stack** 💻  
 This project is built using the following tools and libraries:  
-- **Python 3.x**: For data preprocessing, analysis, and visualization.  
+- **Python 3.12.4**- For data preprocessing, analysis, and visualization.  
 - **Jupyter Notebook**: For an interactive coding environment.  
 
-### **Python Libraries**:  
-- **pandas** 📊: For data manipulation and cleaning.  
-- **NumPy** 🔢: For numerical operations.  
-- **Matplotlib** 🎨: For static visualizations.  
-- **Seaborn** 🌸: For statistical data visualizations.  
-- **Plotly** 📉: For interactive visualizations.  
-- **datetime** ⏳: For date transformations and operations.
+### **Python Libraries**
+- **pandas** 📊- For data manipulation and cleaning.  
+- **NumPy** 🔢- For numerical operations.  
+- **Matplotlib** 🎨- For static visualizations.  
+- **Seaborn** 🌸- For statistical data visualizations.  
+- **Plotly** 📉- For interactive visualizations.  
+- **datetime** ⏳- For date transformations and operations.
 
 ---
 
 ## **Case Description** 📋  
 
 ### **Background**  
-This project revolves around two datasets:  
-1. **Properties Dataset** 🏘️: Contains details about properties, including property ID, building type, sale date, area, and price.  
-2. **Customers Dataset** 👥: Includes customer ID, name, surname, date of birth, and other demographic information.  
+This project revolves around two datasets  
+1. **Properties Dataset** 🏘️- Contains details about properties, including property ID, building type, sale date, area, and price.  
+2. **Customers Dataset** 👥- Includes customer ID, name, surname, date of birth, and other demographic information.  
 
 The objective is to combine and preprocess these datasets to analyze customer behavior and property transactions.
 
@@ -70,11 +70,11 @@ The objective is to combine and preprocess these datasets to analyze customer be
 ## **Project Workflow** 🔄  
 
 ### **1. Data Preprocessing** 🧹  
-- **Handle Missing Values** 🚫: Identify and appropriately manage missing entries across columns.  
-- **Standardize Column Names** ✏️: Ensure consistency in column naming conventions (e.g., lowercase and underscore-separated).  
-- **Transform Data Types** 🔄: Convert columns to appropriate data types (e.g., dates to datetime, categorical values to numerical).  
-- **Remove Inconsistencies** 🧼: Address issues such as leading/trailing spaces in key columns (e.g., `customer_id`).  
-- **Merge Datasets** 🔗: Combine properties and customers datasets on the `customer_id` column to form a unified dataset of 267 rows and 19 columns.
+- **Handle Missing Values** 🚫- Identify and appropriately manage missing entries across columns.  
+- **Standardize Column Names** ✏️- Ensure consistency in column naming conventions (e.g., lowercase and underscore-separated).  
+- **Transform Data Types** 🔄- Convert columns to appropriate data types (e.g., dates to datetime, categorical values to numerical).  
+- **Remove Inconsistencies** 🧼- Address issues such as leading/trailing spaces in key columns (e.g., `customer_id`).  
+- **Merge Datasets** 🔗- Combine properties and customers datasets on the `customer_id` column to form a unified dataset of 267 rows and 19 columns.
 
 ### **2. Descriptive Statistics** 📊  
 - Analyze key variables using descriptive statistics to understand:  
@@ -89,11 +89,11 @@ The objective is to combine and preprocess these datasets to analyze customer be
 
 ### **4. Data Visualization** 📅  
 Create comprehensive visualizations to address key questions:  
-- **Deal Satisfaction by Country** 🌍: Bar chart or heatmap.  
-- **Monthly Revenue Trends** 📅: Time-series line chart.  
-- **Apartments Sold by State** 🏠: Pareto chart with absolute and cumulative frequencies.  
-- **Age Distribution** 🎂: Histogram with age intervals.  
-- **Yearly Sales by Building Type** 🏢: Line graph or stacked bar chart.  
+- **Deal Satisfaction by Country** 🌍- Bar chart or heatmap.  
+- **Monthly Revenue Trends** 📅- Time-series line chart.  
+- **Apartments Sold by State** 🏠- Pareto chart with absolute and cumulative frequencies.  
+- **Age Distribution** 🎂- Histogram with age intervals.  
+- **Yearly Sales by Building Type** 🏢- Line graph or stacked bar chart.  
 
 ### **5. Insights and Recommendations** 💡  
 Interpret the results to provide actionable insights for the client. For instance:  
@@ -106,11 +106,5 @@ Interpret the results to provide actionable insights for the client. For instanc
 
 ### **Prerequisites** 🔧  
 Ensure you have the following installed:  
-- **Python 3.x** 🐍  
+- **Python 3.12.4** 🐍  
 - **Jupyter Notebook** 📓  
-
-### **Dependencies** 📦  
-Install the required Python libraries using pip:  
-```bash  
-pip install pandas numpy matplotlib seaborn plotly  
-
