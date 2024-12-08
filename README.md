@@ -92,10 +92,26 @@ The objective is to combine and preprocess these datasets to analyze customer be
 - **Merge Datasets** 🔗- Combine properties and customers datasets on the `customer_id` column to form a unified dataset of 267 rows and 19 columns.
 
 ### **2. Descriptive Statistics** 📊  
-- Analyze key variables using descriptive statistics to understand:  
-  - 🏠 Sales performance by building type, country, and state.  
-  - 👤 Customer age distribution and buyer behavior.  
-  - 💵 Key numerical variable distributions, such as property price and area.
+
+Analyze key variables using descriptive statistics to understand:  
+- 🏠 **Sales performance by building type, country, and state.**  
+  - Visualization: [Sales Performance Chart](#) 📈
+    
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Customer.jpg" alt="Store Performance" style="width: 48%; height: 500px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Screenshot%202024-12-08%20214139.png" alt="5.5K Performance" style="width: 48%; height: 500px; object-fit: cover;">
+</div>
+
+  - Insights: _Add insights here._  
+
+- 👤 **Customer age distribution and buyer behavior.**  
+  - Visualization: [Age Distribution Histogram](#) 📊  
+  - Insights: _Add insights here._  
+
+- 💵 **Key numerical variable distributions, such as property price and area.**  
+  - Visualization: [Property Price Distribution](#) 🏷️  
+  - Insights: _Add insights here._  
+
 
 ### **3. Data Analysis** 📈  
 - 🧮 Examine age groups and their buying potential by categorizing ages into intervals.  
