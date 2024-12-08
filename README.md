@@ -16,6 +16,13 @@ The client, a prominent real estate company, has collected extensive data on pro
 To address these challenges, the data needs to be cleaned, merged, and analyzed to generate insights and visualizations for strategic decision-making.
 
 ---
+## **Project Files** 📁  
+
+- **realstate_data.csv** 🗂️- Cleaned dataset containing property and customer information.  
+- **RealEstateAnalysis.ipynb** 💻- Jupyter Notebook with all code and analysis.  
+- **README.md** 📑- Project documentation.
+  
+---
 
 ## **Project Objectives** 🎯  
 The primary objectives of this project are
