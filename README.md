@@ -120,7 +120,7 @@ Analyze key variables using descriptive statistics to understand:
   **California** leads in revenue generation, contributing over **$33M** to the total sales.  
 
 
-  -👤 **Customer age distribution and buyer behavior.**
+-👤 **Customer age distribution and buyer behavior.**
   
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20distribution.png" alt="age distribution" style="width: 32%; height: 200px; object-fit: cover;">
