@@ -107,9 +107,9 @@ Analyze key variables using descriptive statistics to understand:
 - 👤 **Customer age distribution and buyer behavior.**
   
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20distribution.png" alt="age distribution" style="width: 32%; height: 250px; object-fit: cover;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/revenue%20by%20age%20group.png" alt="Total revenue by age" style="width: 32%; height: 250px; object-fit: cover;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20price%20age%20group.png" alt="avrage spent on the properties by age " style="width: 32%; height: 250px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20distribution.png" alt="age distribution" style="width: 32%; height: 200px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/revenue%20by%20age%20group.png" alt="Total revenue by age" style="width: 32%; height: 200px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20price%20age%20group.png" alt="avrage spent on the properties by age " style="width: 32%; height: 200px; object-fit: cover;">
   </div>
 
   - Insights: _Add insights here._  
@@ -117,9 +117,9 @@ Analyze key variables using descriptive statistics to understand:
 - 💵 **Key numerical variable distributions, such as property price and area.**  
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/AVG%20price%20by%20property%20type.png" alt="age distribution" style="width: 32%; height: 250px; object-fit: cover;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20area%20by%20property.png" alt="Total revenue by age" style="width: 32%; height: 250px; object-fit: cover;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20price%20by%20mor%20and%20type.png" alt="avrage spent on the properties by age " style="width: 32%; height: 250px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/AVG%20price%20by%20property%20type.png" alt="age distribution" style="width: 32%; height: 200px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20area%20by%20property.png" alt="Total revenue by age" style="width: 32%; height: 200px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20price%20by%20mor%20and%20type.png" alt="avrage spent on the properties by age " style="width: 32%; height: 200px; object-fit: cover;">
   </div>
   
   - Insights: _Add insights here._  
