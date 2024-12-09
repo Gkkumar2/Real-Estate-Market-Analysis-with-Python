@@ -104,7 +104,7 @@ Analyze key variables using descriptive statistics to understand:
 
   - Insights: _Add insights here._  
 
-- 👤 **Customer age distribution and buyer behavior.**
+  -👤 **Customer age distribution and buyer behavior.**
   
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20distribution.png" alt="age distribution" style="width: 32%; height: 200px; object-fit: cover;">
@@ -152,7 +152,7 @@ _(Write your insights here)_
 --
 
 🗺️ **State Chart**  
---
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state.png" alt="state" style="width: 48%; height: 250px; object-fit: cover;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state-type.png" alt="state-type" style="width: 48%; height: 250px; object-fit: cover;">
@@ -166,7 +166,7 @@ _(Write your insights here)_
 #### **2. Monthly Revenue Trends 📅**  
 
 📈 **Revenue Chart**  
---
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state.png" alt="revenue" style="width: 98%; height: 250px; object-fit: cover;">
  </div> 
@@ -177,9 +177,9 @@ _(Write your insights here)_
 ---
 
 #### **3. Apartments Sold by State 🏠**  
--
+
 🤝 **State Revenue Chart:** 
---
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/number%20of%20properties%20sold%20by%20state.png" alt="state" style="width: 48%; height: 250px; object-fit: cover;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/total%20revenue%20by%20state.png" alt="state-type" style="width: 48%; height: 250px; object-fit: cover;">
@@ -191,7 +191,7 @@ _(Write your insights here)_
 ---
 
 #### **4. Age Distribution 🎂**  
---
+
 👥 **Age Distribution Chart:**  
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20groups.png" alt="age groups" style="width: 48%; height: 250px; object-fit: cover;">
@@ -204,7 +204,7 @@ _(Write your insights here)_
 ---
 
 #### **5. Yearly Sales by Building Type 🏢**    
---
+
 🗓️ **Sales Charts**  
 
 <div style="display: flex; justify-content: space-between;">
