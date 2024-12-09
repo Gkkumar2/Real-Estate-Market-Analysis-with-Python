@@ -104,8 +104,14 @@ Analyze key variables using descriptive statistics to understand:
 
   - Insights: _Add insights here._  
 
-- 👤 **Customer age distribution and buyer behavior.**  
-  - Visualization: [Age Distribution Histogram](#) 📊  
+- 👤 **Customer age distribution and buyer behavior.**
+  
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20distribution.png" alt="age distribution" style="width: 48%; height: 350px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/revenue%20by%20age%20group.png" alt="Total revenue by age" style="width: 48%; height: 350px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20price%20age%20group.png" alt="avrage spent on the properties by age " style="width: 48%; height: 350px; object-fit: cover;">
+  </div>
+
   - Insights: _Add insights here._  
 
 - 💵 **Key numerical variable distributions, such as property price and area.**  
