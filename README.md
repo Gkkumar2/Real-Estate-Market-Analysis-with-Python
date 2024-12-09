@@ -175,7 +175,7 @@ Analyze key variables using descriptive statistics to understand:
   - There is a strong positive correlation (**0.95**) between **area** and **price**, indicating that as property area increases, its price also rises.  
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/correlation.png" alt="Correlation Graph" style="width: 32%; height: 200px; object-fit: cover;">
+  <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/correlation.png" alt="Correlation Graph" style="width: 42%; height: 200px; object-fit: cover;">
 </div>
 
 
