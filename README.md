@@ -131,12 +131,67 @@ Analyze key variables using descriptive statistics to understand:
 - 📉 Investigate relationships between customer demographics (e.g., age) and property-related metrics (e.g., price).
 
 ### **4. Data Visualization** 📅  
-Create comprehensive visualizations to address key questions:  
-- **Deal Satisfaction by Country** 🌍- Bar chart or heatmap.  
-- **Monthly Revenue Trends** 📅- Time-series line chart.  
-- **Apartments Sold by State** 🏠- Pareto chart with absolute and cumulative frequencies.  
-- **Age Distribution** 🎂- Histogram with age intervals.  
-- **Yearly Sales by Building Type** 🏢- Line graph or stacked bar chart.  
+---
+
+Below are the key visualizations addressing critical questions. 
+
+---
+
+#### **1. Deal Satisfaction by Country 🌍**  
+**Visualization:** Bar chart or heatmap representing average deal satisfaction by country.  
+
+📊 **Chart:**  
+_(Insert your chart here)_  
+
+📝 **Insight:**  
+_(Write your insights here)_  
+
+---
+
+#### **2. Monthly Revenue Trends 📅**  
+**Visualization:** Time-series line chart showing total revenue over time.  
+
+📊 **Chart:**  
+_(Insert your chart here)_  
+
+📝 **Insight:**  
+_(Write your insights here)_  
+
+---
+
+#### **3. Apartments Sold by State 🏠**  
+**Visualization:** Pareto chart with absolute frequency (bar) and cumulative frequency (line) of apartments sold by state.  
+
+📊 **Chart:**  
+_(Insert your chart here)_  
+
+📝 **Insight:**  
+_(Write your insights here)_  
+
+---
+
+#### **4. Age Distribution 🎂**  
+**Visualization:** Histogram displaying the distribution of customer ages in defined intervals.  
+
+📊 **Chart:**  
+_(Insert your chart here)_  
+
+📝 **Insight:**  
+_(Write your insights here)_  
+
+---
+
+#### **5. Yearly Sales by Building Type 🏢**  
+**Visualization:** Line graph or stacked bar chart showing yearly sales by building type.  
+
+📊 **Chart:**  
+_(Insert your chart here)_  
+
+📝 **Insight:**  
+_(Write your insights here)_  
+
+---
+  
 
 ### **5. Insights and Recommendations** 💡  
 Interpret the results to provide actionable insights for the client. For instance:  
