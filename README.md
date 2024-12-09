@@ -201,8 +201,15 @@ Below are the key visualizations addressing critical questions.
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-%20country-type.png" alt="country-type" style="width: 48%; height: 250px; object-fit: cover;">
   </div> 
 
-📝 **Insight**  
-_(Write your insights here)_ 
+#### 📝 **Insights**  
+
+- **Customer Satisfaction by Country**:  
+  - **Canada** and **Germany** have the **highest customer satisfaction scores** of **5 out of 5**, but this is likely due to the **small number of properties** listed in these countries.  
+  - In contrast, the **USA** has an **average customer satisfaction score of 3.58**, reflecting a larger dataset.  
+
+- **Customer Satisfaction by Property Type**:  
+  - In the **USA**, apartments have an average satisfaction score of **3.57**, while office properties score slightly higher at **3.86**.  
+  - **Canada** and **Germany** maintain **perfect satisfaction scores** across apartment listings.  
 
 --
 
@@ -213,8 +220,18 @@ _(Write your insights here)_
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state-type.png" alt="state-type" style="width: 48%; height: 250px; object-fit: cover;">
   </div>  
 
-📝 **Insight:**  
-_(Write your insights here)_
+#### 📝 **Insights:**  
+
+- **Customer Satisfaction by State**:  
+  - Customers who purchased properties in **Virginia** are the **most satisfied**, with an average rating of **4.5**.  
+  - **California** follows with the **second-highest satisfaction score** of **3.75**.  
+  - Satisfaction scores for other states range between **3** and **3.75**.  
+  - Properties listed without a state mentioned (categorized as **Other Countries**) have an average satisfaction rating of **3.64**.  
+
+- **Customer Satisfaction by Property Type**:  
+  - For apartments, **Virginia** stands out with the **highest customer satisfaction score** of **4.5**.  
+  - For office properties, **Nevada** leads with a **perfect satisfaction score of 5**.  
+
 
 ---
 
@@ -223,11 +240,21 @@ _(Write your insights here)_
 📈 **Revenue Chart**  
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state.png" alt="revenue" style="width: 98%; height: 250px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/monthely%20revenue%20per%20year.png" alt="revenue" style="width: 98%; height: 250px; object-fit: cover;">
  </div> 
 
-📝 **Insight**  
-_(Write your insights here)_  
+#### 📝 **Insights:**  
+
+- **Peak Performance**: November 2007 saw the **highest monthly revenue** at **$4.69M**, showcasing exceptional sales performance during that period.  
+- **Lowest Revenue**: The **lowest monthly revenue** was observed in May 2005, totaling **$215k**, indicating a potential market slowdown or fewer transactions.  
+- **Revenue Spikes**: Key **growth periods** were identified in **July 2005**, **September 2006**, **March 2007**, and **November 2007**, highlighting strategic sales or market demand surges.  
+- **Revenue Decline**: A notable **drop in revenue** occurred between **March 2007** and **July 2007**, falling from **$3.5M** to **$1.5M**, signaling potential seasonality or market challenges.  
+- **Stable Performance**: Years like **2004** and **2008** displayed **consistent revenue trends**, indicating periods of steady market activity.  
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/monthly_revenue_trends.png" alt="Monthly Revenue Trends" style="width: 75%; height: auto; object-fit: contain;">
+</div>
+ 
 
 ---
 
