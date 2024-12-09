@@ -137,33 +137,53 @@ Below are the key visualizations addressing critical questions.
 
 ---
 
-#### **1. Deal Satisfaction by Country 🌍**  
-**Visualization:** Bar chart or heatmap representing average deal satisfaction by country.  
+#### **1. Deal Satisfaction by Country and State 🌍**  
 
-📊 **Chart:**  
-_(Insert your chart here)_  
+🌍 **Country Chart**  
+-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/average%20deal%20satisfacrtion%20by%20country.png" alt="country" style="width: 48%; height: 250px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-%20country-type.png" alt="country-type" style="width: 48%; height: 250px; object-fit: cover;">
+  </div> 
+
+📝 **Insight**  
+_(Write your insights here)_ 
+
+--
+
+🗺️ **State Chart**  
+-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state.png" alt="state" style="width: 48%; height: 250px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state-type.png" alt="state-type" style="width: 48%; height: 250px; object-fit: cover;">
+  </div>  
 
 📝 **Insight:**  
-_(Write your insights here)_  
+_(Write your insights here)_
 
 ---
 
 #### **2. Monthly Revenue Trends 📅**  
-**Visualization:** Time-series line chart showing total revenue over time.  
 
-📊 **Chart:**  
-_(Insert your chart here)_  
+📈 **Revenue Chart**  
+-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state.png" alt="revenue" style="width: 98%; height: 250px; object-fit: cover;">
+ </div> 
 
-📝 **Insight:**  
+📝 **Insight**  
 _(Write your insights here)_  
 
 ---
 
 #### **3. Apartments Sold by State 🏠**  
-**Visualization:** Pareto chart with absolute frequency (bar) and cumulative frequency (line) of apartments sold by state.  
-
-📊 **Chart:**  
-_(Insert your chart here)_  
+-
+🤝 **State Revenue Chart:** 
+-
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/number%20of%20properties%20sold%20by%20state.png" alt="state" style="width: 48%; height: 250px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/total%20revenue%20by%20state.png" alt="state-type" style="width: 48%; height: 250px; object-fit: cover;">
+  </div>   
 
 📝 **Insight:**  
 _(Write your insights here)_  
@@ -171,21 +191,26 @@ _(Write your insights here)_
 ---
 
 #### **4. Age Distribution 🎂**  
-**Visualization:** Histogram displaying the distribution of customer ages in defined intervals.  
-
-📊 **Chart:**  
-_(Insert your chart here)_  
+-
+👥 **Age Distribution Chart:**  
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20groups.png" alt="age groups" style="width: 48%; height: 250px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/revenue%20by%20age%20group.png" alt="revenue by age_group" style="width: 48%; height: 250px; object-fit: cover;">
+  </div> 
 
 📝 **Insight:**  
 _(Write your insights here)_  
 
 ---
 
-#### **5. Yearly Sales by Building Type 🏢**  
-**Visualization:** Line graph or stacked bar chart showing yearly sales by building type.  
+#### **5. Yearly Sales by Building Type 🏢**    
+-
+🗓️ **Sales Charts**  
 
-📊 **Chart:**  
-_(Insert your chart here)_  
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/yearly%20sales%20by%20building.png" alt="sales by bulding" style="width: 48%; height: 250px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/yearly%20revenue%20by%20building.png" alt="revenue by building" style="width: 48%; height: 250px; object-fit: cover;">
+  </div> 
 
 📝 **Insight:**  
 _(Write your insights here)_  
