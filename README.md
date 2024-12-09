@@ -128,7 +128,23 @@ Analyze key variables using descriptive statistics to understand:
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20price%20age%20group.png" alt="avrage spent on the properties by age " style="width: 32%; height: 200px; object-fit: cover;">
   </div>
 
-  - Insights: _Add insights here._  
+#### 💡 Insights  
+
+- **Customer Age Distribution**:  
+  The majority of customers fall within the **30-50 age range**, indicating a strong market presence in this demographic.  
+
+- **Revenue by Age Group**:  
+  - The **36-42 age group** generated the highest revenue, contributing **$10M**.  
+  - The **31-36** and **42-48 age groups** each generated around **$6.5M** in revenue.  
+  - The **71-76 age group** contributed the lowest revenue, with **$775K**.  
+
+- **Spending Patterns by Age**:  
+  Customers aged **19 to 48** tend to spend more on average when purchasing properties. In contrast, those aged **49 and older** exhibit lower average spending on property purchases.  
+
+- **Property Purchases by Age Group**:  
+  - The **36-42 age group** purchased the highest number of properties (**35**).  
+  - Both the **31-36** and **42-48 age groups** followed closely, each purchasing **24 properties**.  
+
 
 - 💵 **Key numerical variable distributions, such as property price and area.**  
 
@@ -137,10 +153,33 @@ Analyze key variables using descriptive statistics to understand:
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20area%20by%20property.png" alt="Total revenue by age" style="width: 32%; height: 200px; object-fit: cover;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/avg%20price%20by%20mor%20and%20type.png" alt="avrage spent on the properties by age " style="width: 32%; height: 200px; object-fit: cover;">
   </div>
-  
-  - Insights: _Add insights here._  
+
+#### 💡 Insights  
+
+- **Average Listing Prices**:  
+  - Apartments are listed at an average price of **$284.2K**, while office properties average **$248.8K**.  
+
+- **Average Property Area**:  
+  - Apartments have an average area of **939 ft²**, and office properties average **835 ft²**.  
+
+- **Impact of Mortgages on Pricing**:  
+  - Properties with mortgages tend to have higher average prices compared to those without mortgages.  
+  - Apartments:  
+    - With mortgage: **$247.5K**  
+    - Without mortgage: **$268K**  
+  - Office Properties:  
+    - With mortgage: **$268K**  
+    - Without mortgage: **$233K**  
+
+- **Correlation Between Area and Price**:  
+  - There is a strong positive correlation (**0.95**) between **area** and **price**, indicating that as property area increases, its price also rises.  
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/correlation.png" alt="Correlation Graph" style="width: 32%; height: 200px; object-fit: cover;">
+</div>
 
 
+---
 ### **3. Data Analysis** 📈  
 - 🧮 Examine age groups and their buying potential by categorizing ages into intervals.  
 - 💰 Analyze property price distributions and create price bins for further insights.  
