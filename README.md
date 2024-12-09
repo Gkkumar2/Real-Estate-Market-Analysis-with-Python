@@ -140,7 +140,7 @@ Below are the key visualizations addressing critical questions.
 #### **1. Deal Satisfaction by Country and State 🌍**  
 
 🌍 **Country Chart**  
--
+--
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/average%20deal%20satisfacrtion%20by%20country.png" alt="country" style="width: 48%; height: 250px; object-fit: cover;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-%20country-type.png" alt="country-type" style="width: 48%; height: 250px; object-fit: cover;">
@@ -152,7 +152,7 @@ _(Write your insights here)_
 --
 
 🗺️ **State Chart**  
--
+--
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state.png" alt="state" style="width: 48%; height: 250px; object-fit: cover;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state-type.png" alt="state-type" style="width: 48%; height: 250px; object-fit: cover;">
@@ -166,7 +166,7 @@ _(Write your insights here)_
 #### **2. Monthly Revenue Trends 📅**  
 
 📈 **Revenue Chart**  
--
+--
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/satis-state.png" alt="revenue" style="width: 98%; height: 250px; object-fit: cover;">
  </div> 
@@ -179,7 +179,7 @@ _(Write your insights here)_
 #### **3. Apartments Sold by State 🏠**  
 -
 🤝 **State Revenue Chart:** 
--
+--
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/number%20of%20properties%20sold%20by%20state.png" alt="state" style="width: 48%; height: 250px; object-fit: cover;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/total%20revenue%20by%20state.png" alt="state-type" style="width: 48%; height: 250px; object-fit: cover;">
@@ -191,7 +191,7 @@ _(Write your insights here)_
 ---
 
 #### **4. Age Distribution 🎂**  
--
+--
 👥 **Age Distribution Chart:**  
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20groups.png" alt="age groups" style="width: 48%; height: 250px; object-fit: cover;">
@@ -204,7 +204,7 @@ _(Write your insights here)_
 ---
 
 #### **5. Yearly Sales by Building Type 🏢**    
--
+--
 🗓️ **Sales Charts**  
 
 <div style="display: flex; justify-content: space-between;">
