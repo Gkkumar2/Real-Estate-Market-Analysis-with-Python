@@ -102,7 +102,23 @@ Analyze key variables using descriptive statistics to understand:
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/total%20revenue%20by%20state.png" alt="state" style="width: 32%; height: 200px; object-fit:cover;">
 </div>
 
-  - Insights: _Add insights here._  
+#### 💡 Insights  
+
+- **Property Distribution**:  
+  Apartments dominate the listings, accounting for **97%** of all properties, while offices represent only **3%**.  
+
+- **Total Property Value**:  
+  The combined value of listed properties is **$73M** for apartments and **$1.99M** for offices, including both sold and unsold properties.  
+
+- **Average Prices**:  
+  The average listing price for an apartment is **$284.2K**, whereas office properties are listed at an average of **$248.8K**.  
+
+- **Revenue by Country**:  
+  The **United States** generates the majority of the revenue, with **91%** of the listed properties located there.  
+
+- **Top-Performing State**:  
+  **California** leads in revenue generation, contributing over **$33M** to the total sales.  
+
 
   -👤 **Customer age distribution and buyer behavior.**
   
