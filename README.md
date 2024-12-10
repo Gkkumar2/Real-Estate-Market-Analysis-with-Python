@@ -1,3 +1,9 @@
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/realsate2.jpg" alt="customer" style="width: 98%; height: 350px; object-fit: cover;">
+</div>
+
+---
+
 # 🏡 **Real Estate Market Analysis with Python** 📊
 
 ## **Overview**  
