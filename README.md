@@ -237,8 +237,7 @@ Below - given are the key visualizations addressing critical questions of this p
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/monthely%20revenue%20per%20year.png" alt="revenue" style="width: 98%; height: 250px; object-fit: cover;">
  </div> 
-
-#### 📝 **Insights ;**  
+ 
 #### 📝 **Insight ;**  
 
 - **Peak Performance ;**
