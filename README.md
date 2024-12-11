@@ -98,7 +98,7 @@ The objective is to combine and preprocess these datasets to analyze customer be
 ### **2. Descriptive Statistics** 📊  
 
 Analyze key variables using descriptive statistics to understand:  
-- &#x2160; . 🏠 **Sales performance by building type, country, and state.**  
+ &#x2160; . 🏠 **Sales performance by building type, country, and state.**  
     
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/Total%20revenue%20by%20type%20of%20the%20property.png" alt="type" style="width: 32%; height: 200px; object-fit: cover;">
@@ -119,7 +119,7 @@ Analyze key variables using descriptive statistics to understand:
 - As a top performing state, ?**California** leads in revenue generation, contributing over **$33M** to the total sales.  <br><br>
 
 
-- 👤 **Customer age distribution and buyer behavior.**
+  &#x2161; . 👤 **Customer age distribution and buyer behavior.**
   
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/age%20distribution.png" alt="age distribution" style="width: 32%; height: 200px; object-fit: cover;">
@@ -143,7 +143,7 @@ Analyze key variables using descriptive statistics to understand:
   - Both the **31-36** and **42-48 age groups** followed closely, each purchasing **24 properties**. <br><br> 
 
 
-- 💵 **Key numerical variable distributions, such as property price and area.**  
+    &#x2162; . 💵 **Key numerical variable distributions, such as property price and area.**  
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/AVG%20price%20by%20property%20type.png" alt="age distribution" style="width: 32%; height: 200px; object-fit: cover;">
