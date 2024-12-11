@@ -118,7 +118,7 @@ Analyze key variables using descriptive statistics to understand:
 
 - In terms of , Revenue by country, The **United States** generates the majority of the revenue, with **91%** of the listed properties located there.  
 
-- As a top performing state, ?**California** leads in revenue generation, contributing over **$33M** to the total sales.  
+- As a top performing state, ?**California** leads in revenue generation, contributing over **$33M** to the total sales.  <br><br>
 
 
 - 👤 **Customer age distribution and buyer behavior.**
@@ -131,20 +131,18 @@ Analyze key variables using descriptive statistics to understand:
 
 #### 💡 Insights  
 
-- **Customer Age Distribution**:  
-  The majority of customers fall within the **30-50 age range**, indicating a strong market presence in this demographic.  
+- When considering the 'customer age distribution';The majority of customers fall within the **30-50 age range**, indicating a strong market presence in this demographic.  
 
-- **Revenue by Age Group**:  
+- **Revenue by Age Group** ;  
   - The **36-42 age group** generated the highest revenue, contributing **$10M**.  
   - The **31-36** and **42-48 age groups** each generated around **$6.5M** in revenue.  
   - The **71-76 age group** contributed the lowest revenue, with **$775K**.  
 
-- **Spending Patterns by Age**:  
-  Customers aged **19 to 48** tend to spend more on average when purchasing properties. In contrast, those aged **49 and older** exhibit lower average spending on property purchases.  
+- Where the spending pattern by age was analyzed, Customers aged **19 to 48** tend to spend more on average when purchasing properties. In contrast, those aged **49 and older** exhibit lower average spending on property purchases.  
 
-- **Property Purchases by Age Group**:  
+- **Property Purchases by Age Group** ; 
   - The **36-42 age group** purchased the highest number of properties (**35**).  
-  - Both the **31-36** and **42-48 age groups** followed closely, each purchasing **24 properties**.  
+  - Both the **31-36** and **42-48 age groups** followed closely, each purchasing **24 properties**. <br><br> 
 
 
 - 💵 **Key numerical variable distributions, such as property price and area.**  
