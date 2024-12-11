@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/realsate2.jpg" alt="customer" style="width: 100%; height: 350px; object-fit: cover;">
+    <img src="https://github.com/Gkkumar2/Real-Estate-Market-Analysis-with-Python/blob/main/Screen_shots/realsate2.jpg" alt="customer" style="width: 100%; height: 250px; object-fit: cover;">
 </div>
 
 ---
