@@ -421,11 +421,11 @@ This document outlines strategic recommendations based on a comprehensive analys
 ---
 
 ## Conclusion
-The Real Estate Market Analysis revealed critical insights to guide business decisions and improve market strategies. California emerged as the highest revenue-generating state, making it a prime focus for investments, while Nevada demonstrated significant growth potential. Age group analysis highlighted the importance of targeting customers aged 36-42, with tailored approaches for different property types based on spending patterns.
+<p align="justify">The Real Estate Market Analysis revealed critical insights to guide business decisions and improve market strategies. As a part of the analysis, California emerged as the highest revenue-generating state, making it a prime focus for investments, while Nevada demonstrated significant growth potential. While the age group analysis highlighted the importance of targeting customers aged 36-42, with tailored approaches for different property types based on spending patterns.</p>
 
-Furthermore, customer satisfaction trends underscored the value of focusing on high-performing countries like Canada and Germany, while addressing transparency and quality concerns in Denmark. Strategic recommendations, including expanding apartment listings and leveraging historical data for promotional campaigns, provide actionable steps to enhance revenue and customer experience.
+<p align="justify">Furthermore, customer satisfaction trends underscored the value of focusing on high-performing countries like Canada and Germany, while addressing transparency and quality concerns in Denmark. The provided strategic recommendations, including expanding apartment listings and leveraging historical data for promotional campaigns, provide actionable steps to enhance revenue and customer experience.</p>
 
-This analysis lays a strong foundation for informed decision-making, ensuring sustainable growth and improved market positioning in the competitive real estate industry.
+<p align="justify">This analysis lays a strong foundation for informed decision-making, ensuring sustainable growth and improved market positioning in the competitive real estate industry.</p>
 
 
 ---
