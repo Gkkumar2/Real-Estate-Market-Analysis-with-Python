@@ -7,14 +7,14 @@
 # 🏡 **Real Estate Market Analysis with Python** 📊
 
 ## **Overview**  
-The real estate market is a dynamic and multifaceted industry, impacting professionals, investors, and policymakers. Understanding market conditions, customer behavior, and property characteristics is critical for making informed decisions.  
+<p align="justify">The real estate market is a dynamic and multifaceted industry which impacts professionals, investors, and policymakers. In this industry, comprehending market conditions, customer behavior, and property characteristics is critical for making informed decisions.  </p>
 
-This project leverages **Python** to preprocess, analyze, and visualize real estate data, uncovering meaningful insights into property transactions and customer profiles for a leading real estate company. 🏢💼
+<p align="justify">This project leverages <strong>Python</strong> to preprocess, analyze, and visualize real estate data, uncovering meaningful insights into property transactions and customer profiles for a leading real estate company. 🏢💼</p>
 
 ---
 
 ## **Problem Statement** 🧐  
-The client, a prominent real estate company, has collected extensive data on properties and their customers. The data is currently unprocessed, with missing values and inconsistencies, hindering meaningful analysis. The company seeks actionable insights to answer key questions, such as
+<p align="justify">The client, a prominent real estate company, has collected extensive data on properties and their customers. The data is currently unprocessed, with missing values and inconsistencies, hindering meaningful analysis. The company seeks actionable insights to answer the below given key problems:</p>
 - 👥 What age groups exhibit the highest buyer potential?  
 - 🏠 Which property types perform best in terms of sales and satisfaction?  
 - 🌍 How does deal satisfaction vary by region?  
@@ -80,7 +80,7 @@ This project is built using the following tools and libraries:
 ## **Case Description** 📋  
 
 ### **Background**  
-This project revolves around two datasets  
+This specific project revolves around two datasets  
 1. **Properties Dataset** 🏘️- Contains details about properties, including property ID, building type, sale date, area, and price.  
 2. **Customers Dataset** 👥- Includes customer ID, name, surname, date of birth, and other demographic information.  
 
