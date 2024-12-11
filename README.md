@@ -39,7 +39,7 @@ To address these challenges, the data needs to be cleaned, merged, and analyzed 
 ---
 
 ## **Project Objectives** 🎯  
-The primary objectives of this project are
+The primary objectives of this project that overall covers the key project problems are given below:
 1. **Data Preprocessing**  
    - 🧹 Handle missing values and inconsistencies.  
    - 🔄 Transform and standardize column data types.  
@@ -91,11 +91,11 @@ The objective is to combine and preprocess these datasets to analyze customer be
 ## **Project Workflow** 🔄  
 
 ### **1. Data Preprocessing** 🧹  
-- **Handle Missing Values** 🚫- Identify and appropriately manage missing entries across columns.  
-- **Standardize Column Names** ✏️- Ensure consistency in column naming conventions (e.g., lowercase and underscore-separated).  
-- **Transform Data Types** 🔄- Convert columns to appropriate data types (e.g., dates to datetime, categorical values to numerical).  
-- **Remove Inconsistencies** 🧼- Address issues such as leading/trailing spaces in key columns (e.g., `customer_id`).  
-- **Merge Datasets** 🔗- Combine properties and customers datasets on the `customer_id` column to form a unified dataset of 267 rows and 19 columns.
+- **Handle Missing Values** 🚫 - Identify and appropriately manage missing entries across columns.  
+- **Standardize Column Names** ✏️ - Ensure consistency in column naming conventions (e.g., lowercase and underscore-separated).  
+- **Transform Data Types** 🔄 - Convert columns to appropriate data types (e.g., dates to datetime, categorical values to numerical).  
+- **Remove Inconsistencies** 🧼 - Address issues such as leading/trailing spaces in key columns (e.g., `customer_id`).  
+- **Merge Datasets** 🔗 - Combine properties and customers datasets on the `customer_id` column to form a unified dataset of 267 rows and 19 columns.
 
 ### **2. Descriptive Statistics** 📊  
 
@@ -110,20 +110,15 @@ Analyze key variables using descriptive statistics to understand:
 
 #### 💡 Insights  
 
-- **Property Distribution**:  
-  Apartments dominate the listings, accounting for **97%** of all properties, while offices represent only **3%**.  
+- Property distribution can be identified in where; apartments dominate the listings, accounting for **97%** of all properties, while offices represent only **3%**.  
 
-- **Total Property Value**:  
-  The combined value of listed properties is **$73M** for apartments and **$1.99M** for offices, including both sold and unsold properties.  
+- The overall combined value of listed properties is **$73M** for apartments and **$1.99M** for offices, including both sold and unsold properties.  
 
-- **Average Prices**:  
-  The average listing price for an apartment is **$284.2K**, whereas office properties are listed at an average of **$248.8K**.  
+- The average listing price for an apartment is **$284.2K**, whereas office properties are listed at an average of **$248.8K**.  
 
-- **Revenue by Country**:  
-  The **United States** generates the majority of the revenue, with **91%** of the listed properties located there.  
+- In terms of , Revenue by country, The **United States** generates the majority of the revenue, with **91%** of the listed properties located there.  
 
-- **Top-Performing State**:  
-  **California** leads in revenue generation, contributing over **$33M** to the total sales.  
+- As a top performing state, ?**California** leads in revenue generation, contributing over **$33M** to the total sales.  
 
 
 - 👤 **Customer age distribution and buyer behavior.**
