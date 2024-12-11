@@ -14,10 +14,10 @@
 ---
 
 ## **Problem Statement** 🧐  
-<p align="justify">The client, a prominent real estate company, has collected extensive data on properties and their customers. The data is currently unprocessed, with missing values and inconsistencies, hindering meaningful analysis. The company seeks actionable insights to answer the below given key problems:</p>
-- 👥 What age groups exhibit the highest buyer potential?  
-- 🏠 Which property types perform best in terms of sales and satisfaction?  
-- 🌍 How does deal satisfaction vary by region?  
+<p align="justify">The client, a prominent real estate company, has collected extensive data on properties and their customers. The data is currently unprocessed, with missing values and inconsistencies, hindering meaningful analysis. The company seeks actionable insights to answer the below given key problems:</p><br>
+- 👥 What age groups exhibit the highest buyer potential?  <br>
+- 🏠 Which property types perform best in terms of sales and satisfaction?<br>
+- 🌍 How does deal satisfaction vary by region?  <br>
 
 To address these challenges, the data needs to be cleaned, merged, and analyzed to generate insights and visualizations for strategic decision-making.
 
